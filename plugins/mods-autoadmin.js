@@ -8,7 +8,7 @@ const handler = async (m, {conn, isAdmin, groupMetadata }) => {
 // conn.groupParticipantsUpdate(m.chat, [m.sender], 'demote');
   // await m.react(done)
   // m.reply('😹 *_LISTO, YA LE QUITE SU POWER_* 🤡, *_NO PODRÁ HACER NADA_* 😹😹');
-     conn.reply('5491166401905@s.whatsapp.net', `🚩 *${nn}* se dio Auto Admin en:\n> ${groupMetadata.subject}.`, m, rcanal, );
+     conn.reply('18098781279@s.whatsapp.net', `🚩 *${nn}* se dio Auto Admin en:\n> ${groupMetadata.subject}.`, m, rcanal, );
   } catch {
     m.reply('❌ Ocurrio un error.');
   }
