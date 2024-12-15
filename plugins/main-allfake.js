@@ -37,21 +37,21 @@ let user = global.db.data.users[who]
 let pushname = m.pushName || 'Sin nombre'
 
 //creador y otros
-global.creador = 'Wa.me/584148256527'
+global.creador = 'Wa.me/18098781279'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/584148256527'
-global.namechannel = '𝙏𝙀𝘼𝙈 | 𝗠𝗨𝗡𝗗𝗢 𝗔𝗡𝗜𝗠𝗘'
+global.asistencia = 'Wa.me/18292588251'
+global.namechannel = '𝙏𝙀𝘼𝙈 | 𝗠𝗨𝗡𝗗𝗢 '
 global.namechannel2 = '✫𝚃𝙴𝙰𝙼  乂 𝚂𝚃𝙰𝚁𝙲𝙾𝚁𝙴✫'
-global.namegrupo = '𝗧𝗘𝗔𝗠 | 𝗠𝗨𝗡𝗗𝗢 𝗔𝗡𝗜𝗠𝗘ᚐ҉'
-global.namecomu = '𝗧𝗘𝗔𝗠 | 𝗠𝗨𝗡𝗗𝗢 𝗔𝗡𝗜𝗠𝗘'
+global.namegrupo = '𝗧𝗘𝗔𝗠 | 𝗠𝗨𝗡𝗗𝗢 ᚐ҉'
+global.namecomu = '𝗧𝗘𝗔𝗠 | 𝗠𝗨𝗡𝗗𝗢 '
 global.namecomu2 = '✫𝚃𝙴𝙰𝙼  乂 𝚂𝚃𝙰𝚁𝙲𝙾𝚁𝙴✫'
-global.colab1 = 'destroy'
-global.colab2 = 'Niño Piña'
+global.colab1 = 'Antonio'
+global.colab2 = 'Nicol'
 global.colab3 = 'Dv daniel'
 
 //Ids channel
-global.idchannel = '120363354007483445@newsletter'
-global.canalIdM = ["120363323286489957@newsletter", "120363323286489957@newsletter", "120363323286489957@newsletter"]
+global.idchannel = ''
+global.canalIdM = ["", "", ""]
 global.canalNombreM = ["𝙏𝙀𝘼𝙈 | 𝙈𝙐𝙉𝘿𝙊 𝘼𝙉𝙄𝙈𝙀҉ᚐ", "✧┊┋◟𝙆𝙖𝙠𝙖𝙧𝙤𝙩𝙤 𝐓𝐞𝐬𝐭 ┊┋✧", "𝙏𝙀𝘼𝙈 | 𝙈𝙐𝙉𝘿𝙊 𝘼𝙉𝙄𝙈𝙀҉"]
 global.channelRD = await getRandomChannel()
 
@@ -74,12 +74,12 @@ global.waittt = '🕒 *𝙐𝙉 𝙈𝙊𝙈𝙀𝙉𝙏𝙊 𝙋𝙊𝙍𝙁�
 global.waitttt = '🕒 *𝙐𝙉 𝙈𝙊𝙈𝙀𝙉𝙏𝙊 𝙋𝙊𝙍𝙁𝘼...*';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'  
-let canal2 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-var git = 'https://github.com/Diomar-s' 
-var youtube = 'https://youtube.com/@kakaroto-bot?si=QMJZfniTLCm9q1Iu' 
-var github = 'https://github.com/Diomar-s/Kakaroto-Bot-MD.git' 
-let correo =  'darel0954@gmail.com'
+var canal = ''  
+let canal2 = ''
+var git = 'https://github.com/INVICTO-RD' 
+var youtube = '' 
+var github = 'https://github.com/INVICTO-RD/Kakarot-Bot-MD.git' 
+let correo =  'invictodelsur@gmail.com'
 
 global.redes = [canal, canal2, git, youtube, github, correo].getRandom()
 
