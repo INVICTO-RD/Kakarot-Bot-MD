@@ -451,4 +451,5 @@ global.roles = {
 '⚡ *Deidad de la Eternidad II*': 4000,
 '⚡ *Deidad de la Eternidad I*': 5000,
 '⚜️ *Gran Monarca de las Sombras * 🌌': 10000,
-}
+                      }
+                       
