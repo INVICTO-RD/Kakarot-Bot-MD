@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/Diomar-s/Kakaroto-Bot-MD",
+"homepage": "https://github.com/INVICTO-RD/Kakarot-Bot-MD",
 "author": {
 "name": "Legendary"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Diomar-s/Kakaroto-Bot-MD.git"
+"url": "git+https://github.com/INVICTO-RD/Kakarot-Bot-MD.git"
 },
 "bugs": {
-"url": "https://github.com/Diomar-s/Kakaroto-Bot-MD/issues"
+"url": "https://github.com/INVICTO-RD/Kakarot-Bot-MD/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
