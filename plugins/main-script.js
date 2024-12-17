@@ -4,7 +4,7 @@ import fetch from 'node-fetch';
 let handler = async (m, { conn, args }) => {
   try {
     // Cambiar el enlace del repositorio a uno nuevo
-    let res = await fetch('https://api.github.com/repos/Diomar-s/Kakaroto-Bot-MD');
+    let res = await fetch('https://api.github.com/repos/INVICTO-RD/Kakarot-Bot-MD');
     if (!res.ok) throw new Error('Error al obtener datos del repositorio');
     
     let json = await res.json();
