@@ -29,7 +29,7 @@ let handler = async (m, { conn }) => {
 
 handler.help = ['bienvenidos/nuevos'];
 handler.tags = ['grupo'];
-handler.command = ['bienvenidos','nuevos'];
+handler.command = ['bienvenidos','nuevo','nuevos'];
 handler.group = true;
 
 export default handler;
