@@ -26,8 +26,8 @@ global.owner = [
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
 global.mods = ['', '', '18098781279', '', '']
 
-global.suittag = ['']
-global.prems = []
+global.suittag = ['18098781279']
+global.prems = [18292588251]
  
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
@@ -39,15 +39,15 @@ global.jadi = 'GokuJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = `𝐊𝐚𝐤𝐚𝐫𝐨𝐭𝐨-𝐁𝐨𝐭-𝐌𝐃 🐉`
+global.packname = `𝑮𝒐𝒌𝒖-𝐁𝐨𝐭-𝐌𝐃 🐉`
 global.author = `♾━━━━━━━━\n⇝͟͞ ۵̤͟𝐊𝐚𝐤𝐚𝐫𝐨𝐭𝐨-𝐁𝐨𝐭-𝐌𝐃♡̵̑ ͟͞ ⋆\n⇝ ۵-̅ĹєǤ𝒆𝐧𝐃-͞ˍ\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭࠭͢𝐊𝐚𝐤𝐚𝐫𝐨𝐭𝐨-𝐁𝐨𝐭-𝐌𝐃𓆪͟͞ `;
-global.wm = 'ৎ୭࠭͢𝐊𝐚𝐤𝐚𝐫𝐨𝐭𝐨-𝐁𝐨𝐭-𝐌𝐃ⷭ𓆪͟͞ ';
-global.titulowm = '͟͞ ৎ୭࠭͢𝓚𝓪𝓴𝓪𝓻𝓸𝓽𝓸-𝓑𝓸𝓽-𝓜𝓓𓆪 ͟͞';
-global.titulowm2 = `͟͞ ৎ୭࠭͢𝓚𝓪𝓴𝓪𝓻𝓸𝓽𝓸-𝓑𝓸𝓽-𝓜𝓓𓆪 ͟͞`
-global.igfg = 'ĹєǤ𝒆𝐧𝐃'
+global.wm = 'ৎ୭࠭͢𝓖𝓸𝓴𝓾-𝓑𝓸𝓽-𝐌𝐃ⷭ𓆪͟͞ ';
+global.titulowm = '͟͞ ৎ୭࠭͢𝓖𝓸𝓴𝓾-𝓑𝓸𝓽-𝓜𝓓𓆪 ͟͞';
+global.titulowm2 = `͟͞ ৎ୭࠭͢𝓖𝓸𝓴𝓾-𝓑𝓸𝓽-𝓜𝓓𓆪 ͟͞`
+global.igfg = 'Nicol'
 global.botname = '¤ 𝓚𝓪𝓴𝓪𝓻𝓸𝓽𝓸-𝓑𝓸𝓽-𝓜𝓓 ¤'
-global.dev = '© 𝒫𝑜𝓌𝑒𝓇𝑒𝒹 𝐵𝓎 ĹєǤ𝒆𝐧𝐃'
-global.textbot = 'ৎ୭࠭͢𝐊𝐚𝐤𝐚𝐫𝐨𝐭𝐨-𝐁𝐨𝐭-𝐌𝐃𓆪͟͞ '
+global.dev = '© 𝒫𝑜𝓌𝑒𝓇𝑒𝒹 𝐵𝓎 Antonio'
+global.textbot = 'ৎ୭࠭͢𝑮𝒐𝒌𝒖-𝐁𝐨𝐭-𝐌𝐃𓆪͟͞ '
 global.gt = '͟͞ 𝓚𝓪𝓴𝓪𝓻𝓸𝓽𝓸-𝓑𝓸𝓽-𝓜𝓓𓆪 ͟͞';
 global.namechannel = ' 𝐓𝐄𝐀𝐌 | 𝐌𝐔𝐍𝐃𝐎 𝐀𝐍𝐈𝐌𝐄'
 
