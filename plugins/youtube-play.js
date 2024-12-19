@@ -12,7 +12,9 @@ if (lister.includes(feature)) {
 if (feature == "mp3" || feature == "yta" || feature == "audio") {
 if (!inputs) return conn.reply(m.chat, `🐉 Ingresa el título de un video o canción de YouTube.\n\n*Ejemplo:*\n*${usedPrefix + command}* YOUR NAME - Sparkle Sub español  english`, m, rcanal)
 await m.react('🕓')
-let res = await yts(text)
+console.log("Buscando en YouTube:", text);
+let res = await yts(text);
+console.log("Resultado de búsqueda:", res);
 let vid = res.videos[0]
 let q = '128kbps'
 let txt = `*乂  Y O U T U B E  -  P L A Y*\n\n`
