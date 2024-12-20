@@ -30,16 +30,17 @@ const texto1 = `*_𔓕꯭  ꯭ ꯭𓏲꯭֟፝੭ ꯭⌑𝐊𝐚𝐤𝐚�
 await conn.sendMessage(m.chat, {
 image: { url: yt_play[0].thumbnail }, caption: texto1, contextInfo: { externalAdReply: { title: '♡  ͜ ۬︵࣪᷼⏜݊᷼𝘿𝙚𝙨𝙘𝙖𝙧𝙜𝙖𝙨⏜࣪᷼︵۬ ͜ ', body: '<(✿◠‿◠)> 𝙆𝙖𝙠𝙖𝙧𝙤𝙩𝙤-𝘽𝙤𝙩-𝙈𝘿🐉', sourceUrl: cn, thumbnail: logo7 }}, quoted: estilo});
 try {
-await m.react(rwait);
-const apiUrl = `https://deliriussapi-oficial.vercel.app/download/ytmp4?url=${encodeURIComponent(yt_play[0].url)}`;
-const apiResponse = await fetch(apiUrl);
-const delius = await apiResponse.json();
-if (!delius.status) {
-return m.react(error)}
-const downloadUrl = delius.data.download.url;
-await conn.sendMessage(m.chat, { audio: { url: downloadUrl }, mimetype: 'audio/mpeg' }, { quoted: m });
-await m.react(done);
-} catch (e1) {
+  await m.react(rwait);
+  const url = yt_play[0].url;
+  const info = await ytdl.getInfo(url);
+  const audioFormat = ytdl.chooseFormat(info.formats, { quality: 'highestaudio' });
+  const downloadUrl = audioFormat.url;
+  await conn.sendMessage(m.chat, { audio: { url: downloadUrl }, mimetype: 'audio/mpeg' }, { quoted: m });
+  await m.react(done);
+} catch (e) {
+  await m.react(error);
+  console.log(e);
+}
 try { 
 await m.react(rwait);
 let q = '128kbps'
