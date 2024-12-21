@@ -180,7 +180,7 @@ async function downloadDocumentFromYoutubedl(conn, m, url, isVideo) {
 
 handler.help = ['play', 'play2', 'play3', 'play4', 'playdoc'];
 handler.tags = ['descargas'];
-handler.command = ['play', 'play2', 'play3', 'play4', 'mp3', 'mp4', 'playdoc', 'playdoc2'];
+handler.command = ['play', 'lay2', 'cray3', 'maay4', 'mp3', 'mp4', 'playdoc', 'playdoc2'];
 handler.group = true;
 export default handler;
 
