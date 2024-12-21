@@ -17,7 +17,7 @@ const handler = async (m, { conn, text, command, args, usedPrefix }) => {
 handler.help = ['goku', 'kakaroto'];
 handler.tags = ['ai'];
 handler.register = true;
-handler.command = ['goku', 'Goku', 'Kakaroto', 'kakaroto'];
+handler.command = ['goku', 'Goku','Deimon','King', 'Kakaroto', 'kakaroto'];
 export default handler;
 
 async function simitalk(ask, apikeyyy = "iJ6FxuA9vxlvz5cKQCt3", language = "es") {
