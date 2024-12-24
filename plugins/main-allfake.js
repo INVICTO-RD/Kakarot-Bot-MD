@@ -52,7 +52,7 @@ global.colab3 = 'Dv daniel'
 //Ids channel
 global.idchannel = ''
 global.canalIdM = ["", "", ""]
-global.canalNombreM = ["𝙏𝙀𝘼𝙈 | 𝙈𝙐𝙉𝘿𝙊 𝘼𝙉𝙄𝙈𝙀҉ᚐ", "✧┊┋◟𝙆𝙖𝙠𝙖𝙧𝙤𝙩𝙤 𝐓𝐞𝐬𝐭 ┊┋✧", "𝙏𝙀𝘼𝙈 | 𝙈𝙐𝙉𝘿𝙊 𝘼𝙉𝙄𝙈𝙀҉"]
+global.canalNombreM = ["𝙏𝙀𝘼𝙈 | 𝙈𝙐𝙉𝘿𝙊 乂 ᚐ", "✧┊┋◟𝙆𝙖𝙠𝙖𝙧𝙤𝙩 𝐓𝐞𝐬𝐭 ┊┋✧", "𝙏𝙀𝘼𝙈 | 𝙈𝙐𝙉𝘿𝙊 乂"]
 global.channelRD = await getRandomChannel()
 
 //Reacciones De Comandos.!
