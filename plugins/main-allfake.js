@@ -44,7 +44,7 @@ global.namechannel = '𝙏𝙀𝘼𝙈 | 𝗠𝗨𝗡𝗗𝗢 '
 global.namechannel2 = '✫𝚃𝙴𝙰𝙼  乂 𝚂𝚃𝙰𝚁𝙲𝙾𝚁𝙴✫'
 global.namegrupo = '𝗧𝗘𝗔𝗠 | 𝗠𝗨𝗡𝗗𝗢 ᚐ҉'
 global.namecomu = '𝗧𝗘𝗔𝗠 | 𝗠𝗨𝗡𝗗𝗢 '
-global.namecomu2 = '✫𝚃𝙴𝙰𝙼  乂 𝚂𝚃𝙰𝚁𝙲𝙾𝚁𝙴✫'
+global.namecomu2 = '✫𓂀 𝔸ℕ𝕀𝕄𝔼 𝔹𝔸ℕ𝕀𝕊ℍ 𓂀✫'
 global.colab1 = 'Antonio'
 global.colab2 = 'Nicol'
 global.colab3 = 'Dv daniel'
@@ -52,7 +52,7 @@ global.colab3 = 'Dv daniel'
 //Ids channel
 global.idchannel = ''
 global.canalIdM = ["", "", ""]
-global.canalNombreM = ["𝙏𝙀𝘼𝙈 | 𝙈𝙐𝙉𝘿𝙊 乂 ᚐ", "✧┊┋◟𝙆𝙖𝙠𝙖𝙧𝙤𝙩 𝐓𝐞𝐬𝐭 ┊┋✧", "𝙏𝙀𝘼𝙈 | 𝙈𝙐𝙉𝘿𝙊 乂"]
+global.canalNombreM = ["𝙏𝙀𝘼𝙈 | 𝙈𝙐𝙉𝘿𝙊 乂 ᚐ", "✧┊┋◟𝙆𝙖𝙠𝙖𝙧ot 𝐓𝐞𝐬𝐭 ┊┋✧", "𝙏𝙀𝘼𝙈 | 𝙈𝙐𝙉𝘿𝙊 乂"]
 global.channelRD = await getRandomChannel()
 
 //Reacciones De Comandos.!
