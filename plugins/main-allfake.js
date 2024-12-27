@@ -74,7 +74,7 @@ global.waittt = '🕒 *𝙐𝙉 𝙈𝙊𝙈𝙀𝙉𝙏𝙊 𝙋𝙊𝙍𝙁�
 global.waitttt = '🕒 *𝙐𝙉 𝙈𝙊𝙈𝙀𝙉𝙏𝙊 𝙋𝙊𝙍𝙁𝘼...*';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VawDxVnLSmbbtn80cI2F'  
+var canal = ''  
 let canal2 = ''
 var git = 'https://github.com/INVICTO-RD' 
 var youtube = '' 
