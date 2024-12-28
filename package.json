@@ -20,7 +20,7 @@
 },
 "homepage": "https://github.com/INVICTO-RD/Kakarot-Bot-MD",
 "author": {
-"name": "Legendary"
+"name": "Antonio"
 },
 "repository": {
 "type": "git",
@@ -31,7 +31,7 @@
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
-"@whiskeysockets/baileys": "github:nstar-y/Bail",
+"@whiskeysockets/baileys": "^6.7.8",
 "@adiwajshing/keyed-db": "^0.2.4",
 "@bochilteam/scraper": "^4.2.4",
 "@bochilteam/scraper-sosmed": "^1.0.5",
