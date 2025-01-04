@@ -1,5 +1,5 @@
 {
-"name": "Kakarot-Bot-MD",
+"name": "Kakaroto-Bot-MD",
 "version": "3.0.0",
 "description": "Simple WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -18,20 +18,20 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/INVICTO-RD/Kakarot-Bot-MD",
+"homepage": "https://github.com/Diomar-s/Kakaroto-Bot-MD",
 "author": {
-"name": "Antonio"
+"name": "Legendary"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/INVICTO-RD/Kakarot-Bot-MD.git"
+"url": "git+https://github.com/Diomar-s/Kakaroto-Bot-MD.git"
 },
 "bugs": {
-"url": "https://github.com/INVICTO-RD/Kakarot-Bot-MD/issues"
+"url": "https://github.com/Diomar-s/Kakaroto-Bot-MD/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
-"@whiskeysockets/baileys": "github:OfcKing/Baile",
+"@whiskeysockets/baileys": "github:ds6/bails",
 "@adiwajshing/keyed-db": "^0.2.4",
 "@bochilteam/scraper": "^4.2.4",
 "@bochilteam/scraper-sosmed": "^1.0.5",
@@ -56,6 +56,7 @@
 "human-readable": "^0.2.1",
 "didyoumean": "^1.2.2",
 "jsdom": "^20.0.1",
+"jimp": "^0.16.1",
 "link-preview-js": "^3.0.0",
 "lodash": "^4.17.21",
 "lowdb": "^3.0.0",
